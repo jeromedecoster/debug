@@ -1,0 +1,15 @@
+{
+  "name": "debug",
+  "version": "0.1.0",
+  "description": "debug",
+  "main": "index.js",
+  "scripts": {
+    "test": "DEBUG=one,multiple,color,delay node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jeromedecoster/debug.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
