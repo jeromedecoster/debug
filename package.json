@@ -6,10 +6,10 @@
   "scripts": {
     "test": "DEBUG=one,multiple,color,delay node test"
   },
-  "repository": {
-    "type": "git",
-    "url": "github.com/jeromedecoster/debug.git"
-  },
+  "files": [
+    "index.js"
+  ],
+  "repository": "jeromedecoster/debug",
   "author": "",
   "license": "MIT"
 }
